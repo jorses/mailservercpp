@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\manuel\desktop\nueva carpeta\main.cpp(124): warning C4101: 'posicion' : variable local sin referencia
+  LINK : no se encontró C:\Matemáticas e Ingeniería Informática\Carrera\Fundamentos de la programación\Prácticas\Práctica 4. Gestor de Correo\pr4\Debug\pr4.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  pr4.vcxproj -> C:\Matemáticas e Ingeniería Informática\Carrera\Fundamentos de la programación\Prácticas\Práctica 4. Gestor de Correo\pr4\Debug\pr4.exe
